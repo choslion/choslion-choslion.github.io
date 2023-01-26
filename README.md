@@ -1,2 +1,3 @@
-# choslion-choslion.github.io
+# choslion.github.io
+
 연습목록!
